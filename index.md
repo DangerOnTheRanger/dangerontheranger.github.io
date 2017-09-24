@@ -25,3 +25,13 @@ A currently-stalled game development project started by myself with the help of 
 ![Alias screenshot](https://dangerontheranger.github.io/alias-pyweek.png)
 
 My PyWeek 14 entry; an old-school, fully 3D first-person shooter built on top of the Panda3D game engine.
+
+[**OpenBlox**](https://sourceforge.net/projects/openblox/)
+
+![OpenBlox 0.7](https://dangerontheranger.github.io/openblox.jpg) ![Bloxworks](https://dangerontheranger.github.io/bloxworks.jpg)
+
+My first major project started back in 2010; a game development environment that allowed users to create their own games with Lego-like blocks in a drag-and-drop environment in addition to added custom functionality via Lua scripting. It received almost 7,000 downloads while it was actively developed.
+
+## Stuff I've helped out with
+
+[**Panda3D**](http://panda3d.org) - I contributed support via forums and IRC as well as testing and bug reports from 2010 to around 2014.
