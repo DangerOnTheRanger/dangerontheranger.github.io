@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Stuff I've made
 
-You can use the [editor on GitHub](https://github.com/DangerOnTheRanger/dangerontheranger.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[**Schego**](https://github.com/DangerOnTheRanger/schego)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Schego code](https://dangerontheranger.github.io/schego-code.png)
 
-### Markdown
+Schego is a work-in-progress R7RS Scheme VM written in Go. It will eventually include an x86 JIT and a full implementation of [STM (Software Transactional Memory)](https://en.wikipedia.org/wiki/Software_transactional_memory); Schego will likely be the first Scheme implementation in the world to implement STM. Additionally, as I write Schego, I post about it over on my blog, detailing the basics of things like lexing and parsing, as well as explaining and defending the implementation choices I made along the way.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[**xonsh-apt-tabcomplete**](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete)
+![Xonsh tabcomplete at work](https://dangerontheranger.github.io/xonsh-apt.png)
 
-```markdown
-Syntax highlighted code block
+A tabcomplete plugin targeting the APT package manager for the xonsh shell.
 
-# Header 1
-## Header 2
-### Header 3
+[**Alias**](https://github.com/DangerOnTheRanger/alias)
 
-- Bulleted
-- List
+![Alias screenshot](https://dangerontheranger.github.io/alias-pyweek.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DangerOnTheRanger/dangerontheranger.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My PyWeek 14 entry; an old-school, fully 3D first-person shooter built on top of the Panda3D game engine.
