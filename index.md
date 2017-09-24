@@ -1,4 +1,6 @@
-# Stuff I've made
+# Kermit Alexander II's GitHub portfolio
+
+## Stuff I've made
 
 [**Schego**](https://github.com/DangerOnTheRanger/schego)
 
