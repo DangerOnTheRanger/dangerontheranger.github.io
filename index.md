@@ -7,9 +7,16 @@
 Schego is a work-in-progress R7RS Scheme VM written in Go. It will eventually include an x86 JIT and a full implementation of [STM (Software Transactional Memory)](https://en.wikipedia.org/wiki/Software_transactional_memory); Schego will likely be the first Scheme implementation in the world to implement STM. Additionally, as I write Schego, I post about it over on my blog, detailing the basics of things like lexing and parsing, as well as explaining and defending the implementation choices I made along the way.
 
 [**xonsh-apt-tabcomplete**](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete)
+
 ![Xonsh tabcomplete at work](https://dangerontheranger.github.io/xonsh-apt.png)
 
 A tabcomplete plugin targeting the APT package manager for the xonsh shell.
+
+[**Project Panzee**](https://github.com/DangerOnTheRanger/Project-Panzee)
+
+![Panzee DSL](https://dangerontheranger.github.io/panzee-dsl.png) ![Fate Stay Night Panzee Edition](https://dangerontheranger.github.io/panzee-fsn.png)
+
+A currently-stalled game development project started by myself with the help of a handful of friends in late 2015. I wrote a domain-specific language for cutscenes in the Panzee engine, and as a proof of concept ported the entire 3rd day of the Fate/Stay Night visual novel to Project Panzee's cutscene engine - graphics, text, audio and all.
 
 [**Alias**](https://github.com/DangerOnTheRanger/alias)
 
