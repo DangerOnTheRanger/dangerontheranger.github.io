@@ -2,6 +2,8 @@
 
 ## Stuff I've made
 
+Click the headers to navigate to each project's homepage.
+
 [**Schego**](https://github.com/DangerOnTheRanger/schego)
 
 ![Schego code](https://dangerontheranger.github.io/schego-code.png)
