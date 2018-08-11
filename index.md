@@ -10,6 +10,14 @@ Click the headers to navigate to each project's homepage.
 
 Schego is a work-in-progress R7RS Scheme VM written in Go. It will eventually include an x86 JIT and a full implementation of [STM (Software Transactional Memory)](https://en.wikipedia.org/wiki/Software_transactional_memory); Schego will likely be the first Scheme implementation in the world to implement STM. Additionally, as I write Schego, I post about it over on my blog, detailing the basics of things like lexing and parsing, as well as explaining and defending the implementation choices I made along the way.
 
+[**Maniwani**](https://github.com/DangerOnTheRanger/maniwani)
+
+![Maniwani thread view](https://dangerontheranger.github.io/maniwani-thread.png)
+
+Maniwani is an implementation of an imageboard via Flask and Bootstrap. It brings modern web sensibilities to the imageboard world with features like reponsive
+layout support while still maintaining features imageboard vets will love, like full site functionality with Javascript disabled. It also takes inspiration
+from other social networks, with a Pinterest-style catalog view and Reddit-like aggregation of posts on the front page.
+
 [**xonsh-apt-tabcomplete**](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete)
 
 ![Xonsh tabcomplete at work](https://dangerontheranger.github.io/xonsh-apt.png)
